@@ -7,3 +7,22 @@
 需要 typescript 是做强类型校验
 eslint 是校验代码是否规范
 ```
+1. 使用vite命令行 创建react 项目
+参考：
+```
+# npm 6.x
+npm create vite@latest my-vue-app --template vue
+
+# npm 7+, extra double-dash is needed:
+npm create vite@latest my-vue-app -- --template vue
+
+# yarn
+yarn create vite my-vue-app --template vue
+
+# pnpm
+pnpm create vite my-vue-app --template vue
+
+```
+使用：
+yarn create vite 项目名称 --template react-ts
+

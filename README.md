@@ -1,5 +1,7 @@
-### 加入pretter
-### 加入eslint
+### 使用 eslint + prettier添加统一代码规范 
+### 加入pretter 编辑器代码格式化风格
+
+### 加入eslint  代码格式化风格
 ### 加入router
 ### 加入redux
 ### 使用了typeScript 还需要使用eslint吗
